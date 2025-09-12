@@ -1,52 +1,53 @@
-# Hi there, I'm Ramarosandratana Mampionona Rinasoa 👋
+# 👋 Salut, je suis Ramarosandratana Mampionona Rinasoa  
 
-I'm a passionate software developer specializing in designing and building reliable and efficient solutions.
-
----
-
-## 💼 About Me
-
-- 💻 **Backend Development:** Java, Symfony, PHP, Spring Boot  
-- 🌐 **Frontend Development:** Vue.js, Angular  
-- 🗄️ **Databases:** PostgreSQL, Oracle  
-- ☁️ **Cloud Integration:** Firebase, GitHub Actions  
-
-I focus on turning functional requirements into robust and scalable software solutions.
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue)](https://ramarosandratan.github.io/portfolio)
+[![Email](https://img.shields.io/badge/📧-Contact-orange)](mailto:ramarosandratana@hotmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/ramarosandratan?style=social)](https://github.com/ramarosandratan)
 
 ---
 
-## 🚀 Portfolio
-
-You can explore my projects and learn more about my work here:  
-👉 [https://your-portfolio-link.com](https://your-portfolio-link.com)
-
----
-
-## 🛠️ Recent Projects
-
-- 💸 Cryptocurrency Portfolio Management Application  
-- 📊 Financial Statement Analysis System  
-- ✈️ Airline Ticketing and Reservation Platform  
-- 🏠 Market Box Rental Management Application  
+## 🚀 À propos de moi
+🎓 Étudiant en **Informatique** à *IT University - Madagascar*  
+💻 Passionné par le **développement web** et le **full stack**  
+🌱 Toujours en quête de nouvelles technologies et d’innovation  
 
 ---
 
-## 📫 Contact
+## 🛠️ Compétences techniques  
 
-- Email: your-email@example.com  
-- CV: [Download here](https://your-portfolio-link.com/cv.pdf)
+**Langages**  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)  
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
+
+**Frameworks & Outils**  
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  
+![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)  
+
+**Bases de données**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 
 ---
 
-## 💡 Skills
+## 📊 Statistiques GitHub  
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=ramarosandratan&show_icons=true&theme=radical)  
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=ramarosandratan&layout=compact&theme=radical)  
 
 ---
 
-Thanks for visiting my profile!
+## 📫 Me contacter  
+- 📧 **Email** : [ramarosandratana@hotmail.com](mailto:ramarosandratana@hotmail.com)  
+- 🌍 **Portfolio** : [ramarosandratan.github.io/portfolio](https://ramarosandratan.github.io/portfolio)  
+
+---
+
+✨ *“Coder, c’est transformer une idée en réalité digitale.”*  
