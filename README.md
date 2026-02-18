@@ -138,20 +138,6 @@
 
 ## 🎓 Parcours & Formation
 
-### 📚 Formation
-
-**🎓 Licence en Informatique** | *IT University Madagascar*  
-📅 Janvier 2026 | 📍 Antananarivo
-
-- Spécialisation en développement web et ingénierie logicielle
-- Projets pratiques en développement full stack
-- Maîtrise des méthodologies agiles et bonnes pratiques de développement
-
-**📖 Baccalauréat Série D** | *LPA Madagascar*  
-📅 2018
-
----
-
 ### 💼 Expériences Professionnelles
 
 **💻 Stagiaire Développeur** | *Orange Madagascar (DSI)*  
@@ -175,6 +161,20 @@
 - Gestion des plannings et coordination des équipes
 - Suivi des interventions techniques et relation client
 - Optimisation des processus de communication interne
+
+---
+
+### 📚 Formation
+
+**🎓 Licence en Informatique** | *IT University Madagascar*  
+📅 Janvier 2026 | 📍 Antananarivo
+
+- Spécialisation en développement web et ingénierie logicielle
+- Projets pratiques en développement full stack
+- Maîtrise des méthodologies agiles et bonnes pratiques de développement
+
+**📖 Baccalauréat Série D** | *LPA Madagascar*  
+📅 2018
 
 ---
 
